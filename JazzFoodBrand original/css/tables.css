@@ -1,0 +1,15 @@
+button.btn.btn-outline {
+    margin-top: 20px;
+    background-color: #A23E43;
+    border-style: none;
+    font-weight: 900;
+    font-family: 'Texturina';
+    font-style:normal;
+    line-height: normal;
+    color: #FFF !important;
+    transition: 0.8s ease;
+}
+
+button.btn.btn-outline:hover {
+    outline: auto !important;
+}
